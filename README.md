@@ -62,6 +62,6 @@ VOIS_Seasonal_Agriculture_Project/
 - More detailed field/experimental studies for causal analysis.
 
 ## Author
-**[KV DHRUVA]**  
-**[PES College of Engineering, Mandya]**  
-**AICTE STU ID: [STU69fb77b22e53f1778087858]**
+**KV DHRUVA**  
+**PES College of Engineering, Mandya**  
+**AICTE STU ID: STU69fb77b22e53f1778087858**
